@@ -36,3 +36,7 @@ Developed during the NLW Journey ReactJS track
 7. **Tailwind CSS**
    - A utility-first CSS framework.
    - Used for styling components and the layout of the project.
+
+8. **Vue.js**
+   - A progressive JavaScript framework for building user interfaces.
+   - Focused on making the construction of interactive UIs easier and more efficient.
